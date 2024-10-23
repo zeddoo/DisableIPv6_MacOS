@@ -1,0 +1,1 @@
+Script created to disable IPv6 on all network services in MacOS
